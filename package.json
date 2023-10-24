@@ -1,0 +1,19 @@
+{
+  "name": "node-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arhip14/node-2.git"
+  },
+  "author": "Arh1503",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arhip14/node-2/issues"
+  },
+  "homepage": "https://github.com/arhip14/node-2#readme"
+}
